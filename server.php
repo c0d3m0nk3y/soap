@@ -9,7 +9,7 @@ function getQuote($symbol) {
 	return $quotes[$symbol];
 }
 
-$server = new SoapServer('sotckquote.wsdl');
+$server = new SoapServer('stockquote.wsdl');
 $server->addFunction('getQuote');
 $server->handle();
 
