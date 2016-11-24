@@ -1,0 +1,18 @@
+<?xml version ='1.0' encoding ='UTF-8' ?>
+<definitions>
+ <types>
+  ........
+ </types>
+ <message>
+  <part></part>
+ </message>
+ <portType>
+  .......
+ </portType>
+ <binding>
+  ....
+ </binding>
+ <service>
+  ....
+ </service>
+</definitions>

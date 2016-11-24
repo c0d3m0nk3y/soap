@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope
+ xmlns:soap="http://www.w3.org/2001/12/soap-envelope"
+ soap:encodingStyle="http://www.w3.org/2001/12/soap-encoding">
+ <soap:Header>
+  <!---->
+ </soap:Header>
+ <soap:Body>
+  <!---->
+  <soap:Fault>
+   <!---->
+  </soap:Fault>
+ </soap:Body>
+</soap:Envelope>
